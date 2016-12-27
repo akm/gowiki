@@ -3,3 +3,4 @@
 wiki
 !.gitignore
 !wiki.go
+!test.txt
